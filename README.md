@@ -5,8 +5,6 @@
 
 ![Ricardo Gihub Status](https://github-readme-stats.vercel.app/api?username=devRicardoR&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRicardoR)](https://github.com/devRicardoR/github-readme-stats)
-
 👨‍💻 Tecnologias do meu dia a dia 👨‍💻
 
 [![Html](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
